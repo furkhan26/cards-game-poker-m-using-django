@@ -1,0 +1,12 @@
+{% load static %}
+<style>
+    .container{
+        height: 30%;
+        width: 80%;
+    }
+</style>
+<div class="container">
+    {% for o in getCards__%}
+        <img src="{{o.img}}" class="mt-3 mb-3  me-2 ms-2" width="100px" height="100px" alt="">
+    {% endfor %}
+</div>

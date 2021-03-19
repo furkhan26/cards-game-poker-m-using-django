@@ -1,0 +1,11 @@
+
+*first install reuirements and login with users
+
+*admin login 
+username= admin, password= admin
+
+*userlogin
+1. username= firstuser, password= admin123$
+2. username= seconduser, password= admin123$
+3. username= thirduser, password= admin123$
+4. username= fourthuser, password= admin123$
